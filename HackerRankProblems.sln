@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMeFirst", "SolveMeFirst\SolveMeFirst.csproj", "{EB5B4F5D-BB04-491B-9E07-16B14D7911C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{2405DADF-BA22-4A96-B4B6-40D8A0B40F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5B4F5D-BB04-491B-9E07-16B14D7911C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5B4F5D-BB04-491B-9E07-16B14D7911C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5B4F5D-BB04-491B-9E07-16B14D7911C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5B4F5D-BB04-491B-9E07-16B14D7911C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2405DADF-BA22-4A96-B4B6-40D8A0B40F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2405DADF-BA22-4A96-B4B6-40D8A0B40F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2405DADF-BA22-4A96-B4B6-40D8A0B40F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2405DADF-BA22-4A96-B4B6-40D8A0B40F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02749363-53F9-47A4-B609-0A968B67DBE2}
+	EndGlobalSection
+EndGlobal
